@@ -27,7 +27,7 @@
 					</div>
 
 					<div class="form-submit">
-						<input type="submit" value="Je m'inscris !">	
+						<input type="submit" value="Je m'inscris !">
 					</div>
 					<p class="account">Vous avez un compte ? <a href="login.php">Connectez-vous !</a></p>
 				</form>
